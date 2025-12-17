@@ -1,0 +1,17 @@
+{
+    "name": "jobil/php-helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jobil05soft",
+            "email": "jobilsoft@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {}
+}
